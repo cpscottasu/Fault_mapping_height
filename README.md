@@ -20,13 +20,13 @@ Deg2utm: This is available from the Matlab file exchange and is used to convert 
 
 Algorithm Input: 
 
-	Manually-drawn fault maps in the calibration zone: This calibration map is used to calibrate the fault mapping parameters (θ_length  and θ_slope). The calibration map should be done at the desired scale of the fault mapping (e.g., fine or coarse). The mapping can be done at the top, steepest location (approximate middle), or bottom of the scarp, and this location must be specified in the algorithm. The fault map is expected to be save as a shape file.  
+Manually-drawn fault maps in the calibration zone: This calibration map is used to calibrate the fault mapping parameters (θ_length  and θ_slope). The calibration map should be done at the desired scale of the fault mapping (e.g., fine or coarse). The mapping can be done at the top, steepest location (approximate middle), or bottom of the scarp, and this location must be specified in the algorithm. The fault map is expected to be save as a shape file.  
 
-	Box bounding the area of the calibration map: This should be a polygon shape file that bounds the area to be used for the calibration. 
+Box bounding the area of the calibration map: This should be a polygon shape file that bounds the area to be used for the calibration. 
 
-	Topography datasets: The algorithm accepts las files (typically used for point clouds) and geotiffs with horizontal coordinates in meters or latitude/ longitude.  
+Topography datasets: The algorithm accepts las files (typically used for point clouds) and geotiffs with horizontal coordinates in meters or latitude/ longitude.  
 
-	Everything should be saved in the same coordinate reference system (CRS). Las files are assumed to be saved in meters. Geotiffs can be in meters (i.e., UTM grids) or lat/long (e.g., SRTM) but this information must be specified in open_data (see below). Elevations are assumed to be in meters. 
+Everything should be saved in the same coordinate reference system (CRS). Las files are assumed to be saved in meters. Geotiffs can be in meters (i.e., UTM grids) or lat/long (e.g., SRTM) but this information must be specified in open_data (see below). Elevations are assumed to be in meters. 
 
 Algorithm options: 
 
