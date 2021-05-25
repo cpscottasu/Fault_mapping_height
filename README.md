@@ -5,7 +5,7 @@ Fault Mapping Algorithm developed for: A novel tool to map normal fault geometry
 
 To be submitted to Lithosphere in July 2021
 
-Algorithm developed by Chelsea Scott in collaboration with Isabelle Manighetti2, Ramon Arrowsmith1, Frédérique Leclerc2, Cassandra Brigham3, Tiziano Giampietro2, Lionel Mattéo2, and Daniel Lao Davila4 
+Algorithm developed by Chelsea Scott (1) in collaboration with Isabelle Manighetti (2), Ramon Arrowsmith (1), Frédérique Leclerc (2), Cassandra Brigham (3), Tiziano Giampietro (2), Lionel Mattéo (2), and Daniel Lao Davila (4) 
 
 1 Arizona State University, 2 Université Côte d'Azur (France), 3 University of Washington, 4 Oklahoma State University
 
